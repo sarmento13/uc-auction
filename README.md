@@ -21,7 +21,7 @@ Content-Length: 66
 
 {
 
-"username" : "abdellahi",
+"username" : "maria",
 
 "phone" : 913078866,
 
@@ -33,11 +33,11 @@ Content-Length: 66
 
 "password" : "1a2b3c4d",
 
-"first_name" : "Abdellahi",
+"first_name" : "maria",
 
-"last_name" : "Brahim",
+"last_name" : "sarmento",
 
-"email" : "uchihaabdellahi@gmail.com"
+"email" : "mariasarmento1999@gmail.com"
 
 }
 
@@ -55,7 +55,7 @@ Host: https://uc-auction.herokuapp.com/
 
 {
 
-"username": "abdellahi",
+"username": "maria",
 
 "password": "1a2b3c4d"
 
